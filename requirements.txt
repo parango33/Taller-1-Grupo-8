@@ -40,7 +40,6 @@ clyent
 colorama==0.4.3
 conda
 conda-build
-conda-verify
 confuse==1.6.0
 contextlib2==0.6.0.post1
 contractions==0.0.52
