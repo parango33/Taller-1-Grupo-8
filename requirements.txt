@@ -227,9 +227,9 @@ rope==0.16.0
 Rtree
 ruamel_yaml==0.15.87
 rubicon-objc==0.4.2
-scikit-image==0.16.2
-scikit-learn==0.24.2
-scikit-surprise==1.1.1
+scikit-image
+scikit-learn
+scikit-surprise
 scipy 
 seaborn==0.11.2
 Send2Trash==1.5.0
