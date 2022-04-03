@@ -263,7 +263,7 @@ srsly==2.4.1
 statsmodels
 surprise==0.1
 sympy==1.5.1
-tables==3.6.1
+tables
 tangled-up-in-unicode==0.1.0
 tblib==1.6.0
 terminado==0.8.3
