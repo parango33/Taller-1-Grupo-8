@@ -186,7 +186,6 @@ Pygments==2.5.2
 PyJWT==1.7.1
 pylint==2.4.4
 PyMsgBox==1.0.9
-pyodbc===4.0.0-unsupported
 Pyomo 
 pyOpenSSL==19.1.0
 pyparsing==2.4.6
