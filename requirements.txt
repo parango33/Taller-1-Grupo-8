@@ -59,7 +59,6 @@ distributed==2.11.0
 Django==2.2
 django-prepared-query==0.3.1
 docutils==0.16
-en-core-web-sm 
 entrypoints==0.3
 et-xmlfile==1.0.1
 facebook-scraper==0.2.45
